@@ -4,9 +4,11 @@
 
 Welcome to this fourth Data Storytelling Lab workshop, *Intro to Mathematical Modeling & Visualization in Python*. 
 
-In scientific contexts data is how we describe the world. It is the result of experiments and measuring naturally occuring phenomena. The same is true in epidemiology (think COVID-19 policy), commerce (sales forecasts), finance (investing), marketing (pricing), and weather forecasting, for example. Data tell us how the world is. But, on its own, it tell us nothing about how the world ought to be, or how it will be the future.
+About: We tend to think of data as descriptive. The result of a census or transcripts or sales figures, for example. In scientific contexts, data are how we describe the world. They are the result of experiments and measuring naturally occurring phenomena, for example, the levels anthropogenic carbon dioxide in the atmosphere or the results of a vaccine trial.
 
-However, with the right tools we can use data to extrapolate from the current state of affairs to make predictions about future scenarios. We call this mathematical modelling. Sometimes this can be done using pencil and paper, but increasingly these mathematical models can only be solved on a computer. The results given by these models are known as simulation data.
+However, with the right tools, we can also create data that extrapolates from a state of limited knowledge to a fuller understanding. We can even generate data that makes predictions about future scenarios. This is known as mathematical modelling. It is the use of mathematics to model a scenario using well defined equations, and the solving of these equations to generate data about that scenario. Sometimes this can be done using pencil and paper, but increasingly these mathematical models can only be solved on a computer. The results of simulation are a core part of not only science (think climate modelling, drug discovery, engineering, physics), but also finance, weather modelling, business, and running government. The results given by these models are known as simulation data.
+
+In this notebook we take a look at a simple model for describing the dynamics of a population. Let's start with a simple example—exponential growth—and proceed from there.
 
 In this session we'll introduce the concept of mathematical modelling through a simple, but rich, test case. Please navigate to the python notebook to follow along. 
 
@@ -24,5 +26,5 @@ We will be working entirely in a single Google Colab notebook. This requies an i
 
 # Further Reading
 
-* Wigner, E. P. (1990). The unreasonable effectiveness of mathematics in the natural sciences. Mathematics and science, 13, 1-14.
+* Wigner, E. P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. Mathematics and science, 13, 1-14.
 * Daniel Lawson and Glenn Marion (2008). An Introduction to Mathematical Modelling, Glenn Marion, Bioinformatics and Statistics Scotland 
